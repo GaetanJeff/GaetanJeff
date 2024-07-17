@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaetanJeff
 - 👀 I’m interested in new technologie
-- 🌱 I’m currently learning HTML and PHP
+- 🌱 I’m currently learning Python and JS
 
 <!---
 GaetanJeff/GaetanJeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
