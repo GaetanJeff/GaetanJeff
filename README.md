@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaetanJeff
-- 👀 I’m interested in new technologie
+- 👀 I’m Sys-Admin
 - 🌱 I’m currently learning Python and JS
 
 <!---
