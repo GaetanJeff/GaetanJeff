@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/JavaScript-9b59b6?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-8e44ad?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-9b59b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-9b59b6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
