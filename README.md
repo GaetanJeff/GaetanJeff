@@ -1,11 +1,4 @@
-# gaetanjeff
-
-> Learning velocity and project potential.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
-> Editing this section in the inspector.
 Hi, I'm **gaetanjeff**. This README is tuned for **student** with a Neon visual system.
 <p align="center">
   <picture>
